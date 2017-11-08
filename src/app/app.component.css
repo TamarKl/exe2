@@ -1,0 +1,12 @@
+#main_div {
+    height:100vh;
+    display: block;
+    width:100vw;
+    background-color: #ccebff;
+}
+
+app-main{
+    height: 75%;
+}
+
+

@@ -1,0 +1,30 @@
+
+#aside {
+    border: solid;
+    border-color: black;
+    margin-top: 1%;
+    float: left;
+    margin-left: 1%;
+    height: 74%;
+    width: 23vw;
+    background-color: #0099cc;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 75%;
+    color: #e6e6e6;
+}
+#first_pic{
+    top:1%;
+    width: 99%;
+    height: 49%;
+    border: solid;
+    border-color:gray;
+
+}
+#sec_pic{
+    top:50%;
+    width: 99%;
+    height: 49%;
+    border: solid;
+    border-color:gray;
+}

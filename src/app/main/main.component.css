@@ -1,0 +1,15 @@
+#main {
+    margin-top: 1%;
+    border: solid;
+    border-color: black;
+    margin-top: 1%;
+    float: left;
+    height: 74%;
+    width: 73vw;
+    background-color: #99ddff;
+    color: #808080;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 200%;
+    font-weight:bolder;
+}
